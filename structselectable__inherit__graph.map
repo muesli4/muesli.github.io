@@ -1,0 +1,7 @@
+<map id="selectable" name="selectable">
+<area shape="rect" id="node3" href="$structbutton.html" title="button" alt="" coords="5,155,64,181"/>
+<area shape="rect" id="node4" href="$structcolor__widget.html" title="color_widget" alt="" coords="89,155,183,181"/>
+<area shape="rect" id="node5" href="$structlist__view.html" title="list_view" alt="" coords="208,155,280,181"/>
+<area shape="rect" id="node6" href="$structslider.html" title="slider" alt="" coords="304,155,357,181"/>
+<area shape="rect" id="node2" href="$structwidget.html" title="widget" alt="" coords="160,5,219,32"/>
+</map>

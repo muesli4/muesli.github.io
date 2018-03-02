@@ -1,0 +1,5 @@
+<map id="container" name="container">
+<area shape="rect" id="node3" href="$structbox.html" title="box" alt="" coords="5,155,48,181"/>
+<area shape="rect" id="node4" href="$structtable.html" title="table" alt="" coords="72,155,123,181"/>
+<area shape="rect" id="node2" href="$structwidget.html" title="widget" alt="" coords="32,5,91,32"/>
+</map>

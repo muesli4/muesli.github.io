@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structwidget.html" title="widget" alt="" coords="5,208,64,235"/>
+<area shape="rect" id="node2" href="$structbin.html" title="bin" alt="" coords="203,5,241,32"/>
+<area shape="rect" id="node4" href="$structcontainer.html" title="container" alt="" coords="185,56,259,83"/>
+<area shape="rect" id="node7" href="$structembedded__widget.html" title="embedded_widget\&lt; BaseWidget \&gt;" alt="" coords="112,107,332,133"/>
+<area shape="rect" id="node8" href="$structempty.html" title="empty" alt="" coords="193,157,251,184"/>
+<area shape="rect" id="node9" href="$structlabel.html" title="label" alt="" coords="197,208,247,235"/>
+<area shape="rect" id="node10" href="$structnotebook.html" title="notebook" alt="" coords="185,259,259,285"/>
+<area shape="rect" id="node11" href="$structselectable.html" title="selectable" alt="" coords="181,309,263,336"/>
+<area shape="rect" id="node16" href="$structswipe__area.html" title="swipe_area" alt="" coords="179,360,265,387"/>
+<area shape="rect" id="node17" href="$structtexture__view.html" title="texture_view" alt="" coords="175,411,269,437"/>
+<area shape="rect" id="node3" href="$structpadding.html" title="padding" alt="" coords="394,5,461,32"/>
+<area shape="rect" id="node5" href="$structbox.html" title="box" alt="" coords="406,56,449,83"/>
+<area shape="rect" id="node6" href="$structtable.html" title="table" alt="" coords="402,107,453,133"/>
+<area shape="rect" id="node12" href="$structbutton.html" title="button" alt="" coords="398,233,457,260"/>
+<area shape="rect" id="node13" href="$structcolor__widget.html" title="color_widget" alt="" coords="380,284,475,311"/>
+<area shape="rect" id="node14" href="$structlist__view.html" title="list_view" alt="" coords="391,335,463,361"/>
+<area shape="rect" id="node15" href="$structslider.html" title="slider" alt="" coords="401,385,454,412"/>
+</map>
